@@ -1,5 +1,4 @@
 # AlgoritmosGeneticos
-Algoritmos Geneticos 1 Dominguez
 import random
 import decimal
 
